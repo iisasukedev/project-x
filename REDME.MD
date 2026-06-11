@@ -130,6 +130,7 @@ This project is licensed under the MIT License.
 
 - GitHub: https://github.com/yourusername
 - Email: your@email.com
+- Deploy URL: igmatoooon.netlify.app
 
 ---
 
