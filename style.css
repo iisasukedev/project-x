@@ -19,56 +19,6 @@ body {
   padding: 50px;
 }
 
-/* Left side */
-.left {
-  width: 40%;
-}
-
-.left h1 {
-  font-size: 60px;
-  font-weight: bold;
-  line-height: 1.2;
-  margin-bottom: 30px;
-}
-
-.skills {
-  font-size: 30px;
-  line-height: 1.8;
-}
-
-/* Right side */
-.right {
-  width: 55%;
-}
-
-.right img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-  display: block;
-}
-
-/* Responsive design */
-@media (max-width: 900px) {
-  .container {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .left,
-  .right {
-    width: 100%;
-  }
-
-  .right {
-    margin-top: 30px;
-  }
-
-  .left h1 {
-    font-size: 45px;
-  }
-}
-
 div {
   background-color: #ff0000;
   padding: 20px;
